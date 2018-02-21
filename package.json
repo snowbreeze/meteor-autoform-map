@@ -1,0 +1,19 @@
+{
+  "name": "meteor-autoform-map",
+  "version": "1.0.0",
+  "description": "Autoform map ============",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowbreeze/meteor-autoform-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowbreeze/meteor-autoform-map/issues"
+  },
+  "homepage": "https://github.com/snowbreeze/meteor-autoform-map#readme"
+}
